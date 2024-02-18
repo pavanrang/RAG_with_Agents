@@ -5,6 +5,8 @@ Welcome to the next evolution of interactive Question-Answering (Q&A) systems: R
 
 - **Retrieval-Augmented Generation:** Harnesses advanced algorithms to retrieve and generate responses with unparalleled accuracy and context sensitivity.
 - **Intelligent Agents Integration:** Seamlessly integrates intelligent agents into the Q&A system, enabling dynamic and personalized interactions.
+- **Note Making capablity:** The agents can make notes.
+                           Eg: Make notes about Niagara falls
 - **Streamlit Interface:** Provides an intuitive and user-friendly interface powered by Streamlit for effortless querying and response retrieval.
 
 ## Usage
