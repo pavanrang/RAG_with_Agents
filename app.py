@@ -10,7 +10,6 @@ from pdf import canada_engine
 from note_engine import note_engine
 from prompts import new_prompt, instruction_str, context
 
-# Load environment variables
 load_dotenv()
 
 # Load population data
